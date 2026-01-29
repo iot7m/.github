@@ -8,7 +8,7 @@ The project focuses on real-world implementations, custom UI components, and sup
 
 | Repository                                              | Description                                                        |
 |---------------------------------------------------------|--------------------------------------------------------------------|
-| [`gseptik-card`](https://github.com/iot7m/gseptik-card) | Custom Lovelace cards for septic tank monitoring in Home Assistant |
+| [`septic-card`](https://github.com/iot7m/septic-card) | Custom Lovelace cards for septic tank monitoring in Home Assistant |
 
 ## Resources
 

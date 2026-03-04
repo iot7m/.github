@@ -6,8 +6,8 @@ The project focuses on real-world implementations, custom UI components, and sup
 
 ## Repository overview
 
-| Repository                                              | Description                                                        |
-|---------------------------------------------------------|--------------------------------------------------------------------|
+| Repository                                            | Description                                                        |
+|-------------------------------------------------------|--------------------------------------------------------------------|
 | [`septic-card`](https://github.com/iot7m/septic-card) | Custom Lovelace cards for septic tank monitoring in Home Assistant |
 
 ## Resources
@@ -16,3 +16,10 @@ The project focuses on real-world implementations, custom UI components, and sup
 - [Documentation](https://docs.iot7m.ru?utm_source=github&utm_medium=readme)
 - [Live demo](https://hass.iot7m.ru?utm_source=github&utm_medium=readme)
 - [Blog](https://blog.iot7m.ru?utm_source=github&utm_medium=readme)
+
+Russian versions:
+
+- [Website](https://www.iot7m.ru?utm_source=github&utm_medium=readme)
+- [Documentation](https://docs.iot7m.ru?utm_source=github&utm_medium=readme)
+- [Blog](https://blog.iot7m.ru?utm_source=github&utm_medium=readme)
+- [Live demo](https://hass.iot7m.ru?utm_source=github&utm_medium=readme)

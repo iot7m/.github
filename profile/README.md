@@ -12,10 +12,7 @@ The project focuses on real-world implementations, custom UI components, and sup
 
 ## Resources
 
-- [Website](https://www.iot7m.ru?utm_source=github&utm_medium=readme)
-- [Documentation](https://docs.iot7m.ru?utm_source=github&utm_medium=readme)
-- [Live demo](https://hass.iot7m.ru?utm_source=github&utm_medium=readme)
-- [Blog](https://blog.iot7m.ru?utm_source=github&utm_medium=readme)
+- [Website](https://www.iot7m.com?utm_source=github&utm_medium=readme)
 
 Russian versions:
 
